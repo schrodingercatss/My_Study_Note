@@ -1,4 +1,4 @@
-## linux系统文件权限及chmod命令
+##  linux系统文件权限及chmod命令
 
 #### linux查看文件权限
 
